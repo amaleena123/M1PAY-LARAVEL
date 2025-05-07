@@ -3,6 +3,8 @@
 To support M1Pay Payment Integration in Laravel (PHP Framework) for MobilityOne.
 The development is using Laravel 10 and self-initiave project.
 
+⚠️ Disclaimer: This project provides code for Checkout and Payment functions only. It has been tested on my own server and worked as intended. If you fork or reuse this code, please modify it accordingly to fit your own environment and requirements. Use at your own discretion.
+
 # Requirements
 Register to M1Pay first  
 
@@ -16,9 +18,9 @@ Register to M1Pay first
    These information can be found in M1Pay Merchant Portal.
 
 # Contact M1Pay for
-Merchant Onboarding : bd@mobilityone.com.my  
+Registration : bd@mobilityone.com.my  
 Transaction Inquiries : ccc@mobilityone.com.my  
 Technical Issues Related to PHP coding : m1pay@mobilityonegroup.com (Attention to Ms Amalina Nusyirwan)
 
 
-⚠️ Disclaimer: This project provides code for Checkout and Payment functions only. It has been tested on my own server and worked as intended. If you fork or reuse this code, please modify it accordingly to fit your own environment and requirements. Use at your own discretion.
+
