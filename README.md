@@ -20,7 +20,7 @@ Register to M1Pay first
 # Contact M1Pay for
 Registration : bd@mobilityone.com.my  
 Transaction Inquiries : ccc@mobilityone.com.my  
-Technical Issues Related to PHP coding : m1pay@mobilityonegroup.com (Attention to Ms Amalina Nusyirwan)
+Technical Issues Related to PHP coding : amalina.works@gmail.com (Attention to Ms Amalina Nusyirwan)
 
 
 
